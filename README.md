@@ -1,6 +1,6 @@
 # Hi 👋 I'm Hassam Hameed
 
-💻 Associate Software Engineer who enjoys building interactive software and exploring new technologies.  
+💻 Software Engineer who enjoys building interactive software and exploring new technologies.  
 🚀 I love turning ideas into real projects and continuously improving my skills.
 
 ---
