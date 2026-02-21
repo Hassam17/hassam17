@@ -27,20 +27,11 @@
 ![Sourcetree](https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white)
 
 ---
-
 📊 GitHub Stats
 
-![Hassam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hassam17&show_icons=true&theme=tokyonight)
+![Hassam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hassam17&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hassam17&layout=compact&theme=tokyonight)
-
----
-
-🚀 Featured Projects
-
-🔹 Add your best Unity or software projects here  
-🔹 Pin your top repositories on your profile  
-🔹 Include gameplay GIFs for maximum impact  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hassam17&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 
 ---
