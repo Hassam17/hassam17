@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi 👋 I'm Hassam Hameed
 
-<!--
-**Hassam17/hassam17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Associate Software Engineer who enjoys building interactive software and exploring new technologies.  
+🚀 I love turning ideas into real projects and continuously improving my skills.
 
-Here are some ideas to get you started:
+🔭 Currently working on:
+- 🎮 Mobile game development and level design  
+- 🧩 Improving gameplay systems  
+- 🌱 Learning tools and technologies beyond gaming  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech stack:
+- **Languages:** C#, C++, Python  
+- **Tech:** Unity, Firebase  
+- **Tools:** Git, GitHub, VS Code, Sourcetree  
+
+📫 Reach me at:
+- ✉️ hassamhameed12@gmail.com  
+- 🐙 github.com/Hassam17  
+
+⭐ Always open to learning, collaboration, and new opportunities.
