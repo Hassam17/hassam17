@@ -27,15 +27,6 @@
 ![Sourcetree](https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white)
 
 ---
-📊 GitHub Stats
-
-![Hassam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hassam17&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hassam17&layout=compact&theme=tokyonight&hide_border=true)
-
-
-
----
 
 📫 Reach me at: 
 - 🐙 https://github.com/Hassam17  
