@@ -27,9 +27,9 @@
 ![Sourcetree](https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white)
 
 ---
-### 📊 My GitHub Stats
+### 📈 GitHub Contributions
 
-![Hassam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hassam17&show_icons=true&theme=radical)
+![Hassam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hassam17&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
 ----
 
