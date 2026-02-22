@@ -29,8 +29,7 @@
 ---
 ### 📈 GitHub Contributions
 
-![Hassam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hassam17&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-
+!![Hassam's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hassam17&theme=radical)
 ----
 
 📫 Reach me at: 
