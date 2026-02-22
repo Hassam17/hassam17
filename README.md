@@ -29,11 +29,6 @@
 
 ---
 
-### 📈 GitHub Contributions
-
-![Hassam's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hassam17&theme=dark&count_private=true)  
-
----
 
 📫 Reach me at: 
 - 🐙 [GitHub](https://github.com/Hassam17)  
