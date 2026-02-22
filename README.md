@@ -1,3 +1,4 @@
+
 # Hi 👋 I'm Hassam Hameed
 
 💻 Software Engineer who enjoys building interactive software and exploring new technologies.  
@@ -27,13 +28,16 @@
 ![Sourcetree](https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white)
 
 ---
+
 ### 📈 GitHub Contributions
-![Hassam's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hassam17&theme=blueviolet&count_private=true)
-----
+
+![Hassam's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hassam17&theme=dark&count_private=true)  
+
+---
 
 📫 Reach me at: 
-- 🐙 https://github.com/Hassam17  
-- 💼 https://www.linkedin.com/in/hassam-h-b23287235/
+- 🐙 [GitHub](https://github.com/Hassam17)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/hassam-h-b23287235/)
 
 ---
 
